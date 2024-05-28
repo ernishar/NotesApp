@@ -1,5 +1,5 @@
 :root {
-  --background-color: #FFC700;
+  --background-color: #c1fcff;
   --bs-primary-rgb: #12296c;
 }
 
@@ -10,6 +10,7 @@ body {
   font-weight: 300;
   font-size: 1.2rem;
   background-image: url(../img/noise-bg.png);
+
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -19,6 +20,7 @@ h1,h2,h3,h4,h5,h6 {
 
 .container-fluid-custom {
   max-width: 1600px;
+
 }
 
 /* Button */
