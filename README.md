@@ -1,4 +1,4 @@
-# Notes-NodeJs-CRUD-MongoDB
+# MyNotes Web Application using Node.js, Express.js, MongoDB, EJS
 
 ## Udates
 [x] Fixed Mongoose Notes Query Issue 7.0.0
